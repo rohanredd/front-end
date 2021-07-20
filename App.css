@@ -1,0 +1,149 @@
+.App {
+ 
+}
+#nav{
+margin:0px;
+box-shadow: 0px;
+padding-top: 20px;
+margin-top: -30px;
+}
+
+
+.logi{
+  margin-left: 1150px;
+}
+.head{
+  font-family: 'Otomanopee One', sans-serif;
+  margin-top: 50px;
+
+}
+.logii{ 
+  margin-left: 1100px;
+}
+.main{
+  background: #83a4d4;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #b6fbff, #83a4d4);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #b6fbff, #83a4d4); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.home-img{
+  font-family: 'Otomanopee One', sans-serif;
+  text-align: center;
+  
+}
+.cole{
+  background: #abbaab;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #ffffff, #abbaab);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #ffffff, #abbaab); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  text-align: center;
+}
+.rg{
+  margin-left: 950px;
+}
+
+/* .container-fluid {
+  background-color: rgb(139, 124, 61);
+} */
+.regi{
+  -moz-text-decoration-color: thistle;
+text-shadow: violet;
+}
+.login-style{
+  padding: 10px,16px;
+  text-align: center;
+  
+}
+.cont{
+  background: #8e9eab;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #eef2f3, #8e9eab);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #eef2f3, #8e9eab); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+   
+}
+.text-center{
+ 
+}
+.registr{
+  background: #2980b9;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #2c3e50, #2980b9);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #2c3e50, #2980b9); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  ;
+border-radius: 20px;  
+  margin-left: 445px;
+  margin-top: 116px;
+  width: 30%;
+  text-align: center;
+  background-color: white;
+}
+.login-style {
+  margin-left: 530px;
+  margin-top: 224px;
+  width: 40%;
+  background: #2980b9;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #2c3e50, #2980b9);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #2c3e50, #2980b9); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  ;
+  border-radius: 10px;
+}
+
+.forn style{
+ 
+}
+.color{
+  background: #FEAC5E;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #4BC0C8, #C779D0, #FEAC5E);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #4BC0C8, #C779D0, #FEAC5E); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+text-align: center;
+}
+.colr{
+  background: #abbaab;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #ffffff, #abbaab);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #ffffff, #abbaab); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  text-align: center;
+}
+
+.reg{
+  background-color: whitesmoke;
+}
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+.login-class {
+  background-color: antiquewhite;
+}
+.signup{
+  background-color: rgb(100, 168, 212);
+}
+.addasset{
+  background-color: rgb(69, 140, 143);
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
